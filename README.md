@@ -19,4 +19,4 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=blue)
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=ConnorDBurge&theme=blue-green)
+<!-- ![GitHubStats](https://github-readme-stats.vercel.app/api?username=ConnorDBurge&theme=blue-green) -->
